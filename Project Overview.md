@@ -1,4 +1,4 @@
-# Investigating Dataset Bias in Modern Deep Neural Networks
+# Name the Dataset or Name the Label: Dataset Bias Investigation
 
 This project examines dataset bias through the lens of **Name the Dataset** — a task introduced by Torralba & Efros (*CVPR 2011*) in which a classifier predicts the source dataset of an image — and **Name the Label**, a semantic classification task.  
 
