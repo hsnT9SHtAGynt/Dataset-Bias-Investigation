@@ -81,20 +81,7 @@ Where:
 ├── Experiment_6/
 └── README.md
 
-yaml
-Copy
-Edit
 
----
-
-## References
-
-1. Torralba, Antonio, and Alexei A. Efros.  
-   *Unbiased look at dataset bias*. CVPR 2011. IEEE, 2011.  
-2. Liu, Zhuang, and Kaiming He.  
-   *A Decade’s Battle on Dataset Bias: Are We There Yet?* arXiv:2403.08632 (2024).
-
----
 
 ## License
 
