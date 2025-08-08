@@ -1,0 +1,3 @@
+'ChoosenO3.txt'  records Selected 27 Semantically Overlapping Labels from Tiny ImageNet & CIFAR-100
+
+Among all LLM GPT-O3 do the best.

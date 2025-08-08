@@ -1,0 +1,823 @@
+=== Split Statistics ===
+Split: test
+  goldfish (id=0): total=150, TI=50, CIF=100
+  brown bear (id=1): total=150, TI=50, CIF=100
+  bee (id=2): total=150, TI=50, CIF=100
+  lady beetle (id=3): total=150, TI=50, CIF=100
+  pop bottle (id=4): total=150, TI=50, CIF=100
+  suspension bridge (id=5): total=150, TI=50, CIF=100
+  school bus (id=6): total=150, TI=50, CIF=100
+  monarch butterfly (id=7): total=150, TI=50, CIF=100
+  Arabian camel (id=8): total=150, TI=50, CIF=100
+  ox (id=9): total=150, TI=50, CIF=100
+  rocking chair (id=10): total=150, TI=50, CIF=100
+  chimpanzee (id=11): total=150, TI=50, CIF=100
+  cockroach (id=12): total=150, TI=50, CIF=100
+  African elephant (id=13): total=150, TI=50, CIF=100
+  computer keyboard (id=14): total=150, TI=50, CIF=100
+  lawn mower (id=15): total=150, TI=50, CIF=100
+  lion (id=16): total=150, TI=50, CIF=100
+  American lobster (id=17): total=150, TI=50, CIF=100
+  mushroom (id=18): total=150, TI=50, CIF=100
+  orange (id=19): total=150, TI=50, CIF=100
+  plate (id=20): total=150, TI=50, CIF=100
+  snail (id=21): total=150, TI=50, CIF=100
+  dining table (id=22): total=150, TI=50, CIF=100
+  pay-phone (id=23): total=150, TI=50, CIF=100
+  tractor (id=24): total=150, TI=50, CIF=100
+  bullet train (id=25): total=150, TI=50, CIF=100
+  bell pepper (id=26): total=150, TI=50, CIF=100
+  apple (id=27): total=100, TI=0, CIF=100
+  baby (id=28): total=100, TI=0, CIF=100
+  beaver (id=29): total=100, TI=0, CIF=100
+  bed (id=30): total=100, TI=0, CIF=100
+  bicycle (id=31): total=100, TI=0, CIF=100
+  bowl (id=32): total=100, TI=0, CIF=100
+  boy (id=33): total=100, TI=0, CIF=100
+  can (id=34): total=100, TI=0, CIF=100
+  castle (id=35): total=100, TI=0, CIF=100
+  caterpillar (id=36): total=100, TI=0, CIF=100
+  clock (id=37): total=100, TI=0, CIF=100
+  cloud (id=38): total=100, TI=0, CIF=100
+  couch (id=39): total=100, TI=0, CIF=100
+  crab (id=40): total=100, TI=0, CIF=100
+  crocodile (id=41): total=100, TI=0, CIF=100
+  cup (id=42): total=100, TI=0, CIF=100
+  dinosaur (id=43): total=100, TI=0, CIF=100
+  dolphin (id=44): total=100, TI=0, CIF=100
+  flatfish (id=45): total=100, TI=0, CIF=100
+  forest (id=46): total=100, TI=0, CIF=100
+  fox (id=47): total=100, TI=0, CIF=100
+  girl (id=48): total=100, TI=0, CIF=100
+  hamster (id=49): total=100, TI=0, CIF=100
+  house (id=50): total=100, TI=0, CIF=100
+  kangaroo (id=51): total=100, TI=0, CIF=100
+  lamp (id=52): total=100, TI=0, CIF=100
+  leopard (id=53): total=100, TI=0, CIF=100
+  lizard (id=54): total=100, TI=0, CIF=100
+  man (id=55): total=100, TI=0, CIF=100
+  maple_tree (id=56): total=100, TI=0, CIF=100
+  motorcycle (id=57): total=100, TI=0, CIF=100
+  mountain (id=58): total=100, TI=0, CIF=100
+  mouse (id=59): total=100, TI=0, CIF=100
+  oak_tree (id=60): total=100, TI=0, CIF=100
+  orchid (id=61): total=100, TI=0, CIF=100
+  otter (id=62): total=100, TI=0, CIF=100
+  palm_tree (id=63): total=100, TI=0, CIF=100
+  pear (id=64): total=100, TI=0, CIF=100
+  pickup_truck (id=65): total=100, TI=0, CIF=100
+  pine_tree (id=66): total=100, TI=0, CIF=100
+  plain (id=67): total=100, TI=0, CIF=100
+  poppy (id=68): total=100, TI=0, CIF=100
+  porcupine (id=69): total=100, TI=0, CIF=100
+  possum (id=70): total=100, TI=0, CIF=100
+  rabbit (id=71): total=100, TI=0, CIF=100
+  raccoon (id=72): total=100, TI=0, CIF=100
+  ray (id=73): total=100, TI=0, CIF=100
+  road (id=74): total=100, TI=0, CIF=100
+  rocket (id=75): total=100, TI=0, CIF=100
+  rose (id=76): total=100, TI=0, CIF=100
+  sea (id=77): total=100, TI=0, CIF=100
+  seal (id=78): total=100, TI=0, CIF=100
+  shark (id=79): total=100, TI=0, CIF=100
+  shrew (id=80): total=100, TI=0, CIF=100
+  skunk (id=81): total=100, TI=0, CIF=100
+  skyscraper (id=82): total=100, TI=0, CIF=100
+  snake (id=83): total=100, TI=0, CIF=100
+  spider (id=84): total=100, TI=0, CIF=100
+  squirrel (id=85): total=100, TI=0, CIF=100
+  streetcar (id=86): total=100, TI=0, CIF=100
+  sunflower (id=87): total=100, TI=0, CIF=100
+  tank (id=88): total=100, TI=0, CIF=100
+  television (id=89): total=100, TI=0, CIF=100
+  tiger (id=90): total=100, TI=0, CIF=100
+  trout (id=91): total=100, TI=0, CIF=100
+  tulip (id=92): total=100, TI=0, CIF=100
+  turtle (id=93): total=100, TI=0, CIF=100
+  wardrobe (id=94): total=100, TI=0, CIF=100
+  whale (id=95): total=100, TI=0, CIF=100
+  willow_tree (id=96): total=100, TI=0, CIF=100
+  wolf (id=97): total=100, TI=0, CIF=100
+  woman (id=98): total=100, TI=0, CIF=100
+  worm (id=99): total=100, TI=0, CIF=100
+  Egyptian cat (id=100): total=50, TI=50, CIF=0
+  reel (id=101): total=50, TI=50, CIF=0
+  volleyball (id=102): total=50, TI=50, CIF=0
+  lemon (id=103): total=50, TI=50, CIF=0
+  bullfrog, Rana catesbeiana (id=104): total=50, TI=50, CIF=0
+  basketball (id=105): total=50, TI=50, CIF=0
+  cliff, drop, drop-off (id=106): total=50, TI=50, CIF=0
+  espresso (id=107): total=50, TI=50, CIF=0
+  plunger, plumber's helper (id=108): total=50, TI=50, CIF=0
+  parking meter (id=109): total=50, TI=50, CIF=0
+  German shepherd, German shepherd dog, German police dog, alsatian (id=110): total=50, TI=50, CIF=0
+  pizza, pizza pie (id=111): total=50, TI=50, CIF=0
+  guinea pig, Cavia cobaya (id=112): total=50, TI=50, CIF=0
+  umbrella (id=113): total=50, TI=50, CIF=0
+  organ, pipe organ (id=114): total=50, TI=50, CIF=0
+  oboe, hautboy, hautbois (id=115): total=50, TI=50, CIF=0
+  maypole (id=116): total=50, TI=50, CIF=0
+  potpie (id=117): total=50, TI=50, CIF=0
+  hourglass (id=118): total=50, TI=50, CIF=0
+  seashore, coast, seacoast, sea-coast (id=119): total=50, TI=50, CIF=0
+  ice cream, icecream (id=120): total=50, TI=50, CIF=0
+  nail (id=121): total=50, TI=50, CIF=0
+  space heater (id=122): total=50, TI=50, CIF=0
+  cardigan (id=123): total=50, TI=50, CIF=0
+  baboon (id=124): total=50, TI=50, CIF=0
+  coral reef (id=125): total=50, TI=50, CIF=0
+  albatross, mollymawk (id=126): total=50, TI=50, CIF=0
+  spider web, spider's web (id=127): total=50, TI=50, CIF=0
+  sea cucumber, holothurian (id=128): total=50, TI=50, CIF=0
+  backpack, back pack, knapsack, packsack, rucksack, haversack (id=129): total=50, TI=50, CIF=0
+  Labrador retriever (id=130): total=50, TI=50, CIF=0
+  pretzel (id=131): total=50, TI=50, CIF=0
+  king penguin, Aptenodytes patagonica (id=132): total=50, TI=50, CIF=0
+  sulphur butterfly, sulfur butterfly (id=133): total=50, TI=50, CIF=0
+  tarantula (id=134): total=50, TI=50, CIF=0
+  lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens (id=135): total=50, TI=50, CIF=0
+  banana (id=136): total=50, TI=50, CIF=0
+  sock (id=137): total=50, TI=50, CIF=0
+  projectile, missile (id=138): total=50, TI=50, CIF=0
+  beer bottle (id=139): total=50, TI=50, CIF=0
+  mantis, mantid (id=140): total=50, TI=50, CIF=0
+  freight car (id=141): total=50, TI=50, CIF=0
+  guacamole (id=142): total=50, TI=50, CIF=0
+  remote control, remote (id=143): total=50, TI=50, CIF=0
+  European fire salamander, Salamandra salamandra (id=144): total=50, TI=50, CIF=0
+  lakeside, lakeshore (id=145): total=50, TI=50, CIF=0
+  fur coat (id=146): total=50, TI=50, CIF=0
+  alp (id=147): total=50, TI=50, CIF=0
+  lampshade, lamp shade (id=148): total=50, TI=50, CIF=0
+  torch (id=149): total=50, TI=50, CIF=0
+  abacus (id=150): total=50, TI=50, CIF=0
+  moving van (id=151): total=50, TI=50, CIF=0
+  barrel, cask (id=152): total=50, TI=50, CIF=0
+  tabby, tabby cat (id=153): total=50, TI=50, CIF=0
+  goose (id=154): total=50, TI=50, CIF=0
+  koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus (id=155): total=50, TI=50, CIF=0
+  CD player (id=156): total=50, TI=50, CIF=0
+  teapot (id=157): total=50, TI=50, CIF=0
+  birdhouse (id=158): total=50, TI=50, CIF=0
+  gazelle (id=159): total=50, TI=50, CIF=0
+  academic gown, academic robe, judge's robe (id=160): total=50, TI=50, CIF=0
+  miniskirt, mini (id=161): total=50, TI=50, CIF=0
+  golden retriever (id=162): total=50, TI=50, CIF=0
+  triumphal arch (id=163): total=50, TI=50, CIF=0
+  cannon (id=164): total=50, TI=50, CIF=0
+  neck brace (id=165): total=50, TI=50, CIF=0
+  sombrero (id=166): total=50, TI=50, CIF=0
+  gasmask, respirator, gas helmet (id=167): total=50, TI=50, CIF=0
+  candle, taper, wax light (id=168): total=50, TI=50, CIF=0
+  desk (id=169): total=50, TI=50, CIF=0
+  frying pan, frypan, skillet (id=170): total=50, TI=50, CIF=0
+  dam, dike, dyke (id=171): total=50, TI=50, CIF=0
+  spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish (id=172): total=50, TI=50, CIF=0
+  police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria (id=173): total=50, TI=50, CIF=0
+  iPod (id=174): total=50, TI=50, CIF=0
+  punching bag, punch bag, punching ball, punchball (id=175): total=50, TI=50, CIF=0
+  beacon, lighthouse, beacon light, pharos (id=176): total=50, TI=50, CIF=0
+  jellyfish (id=177): total=50, TI=50, CIF=0
+  wok (id=178): total=50, TI=50, CIF=0
+  potter's wheel (id=179): total=50, TI=50, CIF=0
+  sandal (id=180): total=50, TI=50, CIF=0
+  pill bottle (id=181): total=50, TI=50, CIF=0
+  butcher shop, meat market (id=182): total=50, TI=50, CIF=0
+  slug (id=183): total=50, TI=50, CIF=0
+  hog, pig, grunter, squealer, Sus scrofa (id=184): total=50, TI=50, CIF=0
+  cougar, puma, catamount, mountain lion, painter, panther, Felis concolor (id=185): total=50, TI=50, CIF=0
+  crane (id=186): total=50, TI=50, CIF=0
+  vestment (id=187): total=50, TI=50, CIF=0
+  dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, mosquito hawk, skeeter hawk (id=188): total=50, TI=50, CIF=0
+  cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM (id=189): total=50, TI=50, CIF=0
+  jinrikisha, ricksha, rickshaw (id=190): total=50, TI=50, CIF=0
+  water tower (id=191): total=50, TI=50, CIF=0
+  chest (id=192): total=50, TI=50, CIF=0
+  snorkel (id=193): total=50, TI=50, CIF=0
+  sunglasses, dark glasses, shades (id=194): total=50, TI=50, CIF=0
+  fly (id=195): total=50, TI=50, CIF=0
+  limousine, limo (id=196): total=50, TI=50, CIF=0
+  black stork, Ciconia nigra (id=197): total=50, TI=50, CIF=0
+  dugong, Dugong dugon (id=198): total=50, TI=50, CIF=0
+  sports car, sport car (id=199): total=50, TI=50, CIF=0
+  water jug (id=200): total=50, TI=50, CIF=0
+  ice lolly, lolly, lollipop, popsicle (id=201): total=50, TI=50, CIF=0
+  turnstile (id=202): total=50, TI=50, CIF=0
+  Christmas stocking (id=203): total=50, TI=50, CIF=0
+  broom (id=204): total=50, TI=50, CIF=0
+  scorpion (id=205): total=50, TI=50, CIF=0
+  wooden spoon (id=206): total=50, TI=50, CIF=0
+  picket fence, paling (id=207): total=50, TI=50, CIF=0
+  rugby ball (id=208): total=50, TI=50, CIF=0
+  sewing machine (id=209): total=50, TI=50, CIF=0
+  steel arch bridge (id=210): total=50, TI=50, CIF=0
+  Persian cat (id=211): total=50, TI=50, CIF=0
+  refrigerator, icebox (id=212): total=50, TI=50, CIF=0
+  barn (id=213): total=50, TI=50, CIF=0
+  apron (id=214): total=50, TI=50, CIF=0
+  Yorkshire terrier (id=215): total=50, TI=50, CIF=0
+  swimming trunks, bathing trunks (id=216): total=50, TI=50, CIF=0
+  stopwatch, stop watch (id=217): total=50, TI=50, CIF=0
+  thatch, thatched roof (id=218): total=50, TI=50, CIF=0
+  fountain (id=219): total=50, TI=50, CIF=0
+  black widow, Latrodectus mactans (id=220): total=50, TI=50, CIF=0
+  bikini, two-piece (id=221): total=50, TI=50, CIF=0
+  teddy, teddy bear (id=222): total=50, TI=50, CIF=0
+  barbershop (id=223): total=50, TI=50, CIF=0
+  confectionery, confectionary, candy store (id=224): total=50, TI=50, CIF=0
+  beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon (id=225): total=50, TI=50, CIF=0
+  scoreboard (id=226): total=50, TI=50, CIF=0
+  flagpole, flagstaff (id=227): total=50, TI=50, CIF=0
+  trolleybus, trolley coach, trackless trolley (id=228): total=50, TI=50, CIF=0
+  drumstick (id=229): total=50, TI=50, CIF=0
+  dumbbell (id=230): total=50, TI=50, CIF=0
+  brass, memorial tablet, plaque (id=231): total=50, TI=50, CIF=0
+  bow tie, bow-tie, bowtie (id=232): total=50, TI=50, CIF=0
+  convertible (id=233): total=50, TI=50, CIF=0
+  bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis (id=234): total=50, TI=50, CIF=0
+  orangutan, orang, orangutang, Pongo pygmaeus (id=235): total=50, TI=50, CIF=0
+  American alligator, Alligator mississipiensis (id=236): total=50, TI=50, CIF=0
+  centipede (id=237): total=50, TI=50, CIF=0
+  syringe (id=238): total=50, TI=50, CIF=0
+  go-kart (id=239): total=50, TI=50, CIF=0
+  brain coral (id=240): total=50, TI=50, CIF=0
+  sea slug, nudibranch (id=241): total=50, TI=50, CIF=0
+  cliff dwelling (id=242): total=50, TI=50, CIF=0
+  mashed potato (id=243): total=50, TI=50, CIF=0
+  viaduct (id=244): total=50, TI=50, CIF=0
+  military uniform (id=245): total=50, TI=50, CIF=0
+  pomegranate (id=246): total=50, TI=50, CIF=0
+  chain (id=247): total=50, TI=50, CIF=0
+  kimono (id=248): total=50, TI=50, CIF=0
+  comic book (id=249): total=50, TI=50, CIF=0
+  trilobite (id=250): total=50, TI=50, CIF=0
+  bison (id=251): total=50, TI=50, CIF=0
+  pole (id=252): total=50, TI=50, CIF=0
+  boa constrictor, Constrictor constrictor (id=253): total=50, TI=50, CIF=0
+  poncho (id=254): total=50, TI=50, CIF=0
+  bathtub, bathing tub, bath, tub (id=255): total=50, TI=50, CIF=0
+  grasshopper, hopper (id=256): total=50, TI=50, CIF=0
+  walking stick, walkingstick, stick insect (id=257): total=50, TI=50, CIF=0
+  Chihuahua (id=258): total=50, TI=50, CIF=0
+  tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui (id=259): total=50, TI=50, CIF=0
+  altar (id=260): total=50, TI=50, CIF=0
+  obelisk (id=261): total=50, TI=50, CIF=0
+  beaker (id=262): total=50, TI=50, CIF=0
+  bannister, banister, balustrade, balusters, handrail (id=263): total=50, TI=50, CIF=0
+  bucket, pail (id=264): total=50, TI=50, CIF=0
+  magnetic compass (id=265): total=50, TI=50, CIF=0
+  meat loaf, meatloaf (id=266): total=50, TI=50, CIF=0
+  gondola (id=267): total=50, TI=50, CIF=0
+  standard poodle (id=268): total=50, TI=50, CIF=0
+  acorn (id=269): total=50, TI=50, CIF=0
+  lifeboat (id=270): total=50, TI=50, CIF=0
+  binoculars, field glasses, opera glasses (id=271): total=50, TI=50, CIF=0
+  cauliflower (id=272): total=50, TI=50, CIF=0
+Split: train
+  goldfish (id=0): total=900, TI=450, CIF=450
+  brown bear (id=1): total=900, TI=454, CIF=446
+  bee (id=2): total=900, TI=450, CIF=450
+  lady beetle (id=3): total=900, TI=456, CIF=444
+  pop bottle (id=4): total=900, TI=449, CIF=451
+  suspension bridge (id=5): total=900, TI=457, CIF=443
+  school bus (id=6): total=900, TI=446, CIF=454
+  monarch butterfly (id=7): total=900, TI=457, CIF=443
+  Arabian camel (id=8): total=900, TI=449, CIF=451
+  ox (id=9): total=900, TI=451, CIF=449
+  rocking chair (id=10): total=900, TI=449, CIF=451
+  chimpanzee (id=11): total=900, TI=452, CIF=448
+  cockroach (id=12): total=900, TI=454, CIF=446
+  African elephant (id=13): total=900, TI=454, CIF=446
+  computer keyboard (id=14): total=900, TI=452, CIF=448
+  lawn mower (id=15): total=900, TI=453, CIF=447
+  lion (id=16): total=900, TI=449, CIF=451
+  American lobster (id=17): total=900, TI=451, CIF=449
+  mushroom (id=18): total=900, TI=442, CIF=458
+  orange (id=19): total=900, TI=446, CIF=454
+  plate (id=20): total=900, TI=444, CIF=456
+  snail (id=21): total=900, TI=450, CIF=450
+  dining table (id=22): total=900, TI=442, CIF=458
+  pay-phone (id=23): total=900, TI=447, CIF=453
+  tractor (id=24): total=900, TI=438, CIF=462
+  bullet train (id=25): total=900, TI=452, CIF=448
+  bell pepper (id=26): total=900, TI=458, CIF=442
+  apple (id=27): total=450, TI=0, CIF=450
+  baby (id=28): total=450, TI=0, CIF=450
+  beaver (id=29): total=450, TI=0, CIF=450
+  bed (id=30): total=450, TI=0, CIF=450
+  bicycle (id=31): total=450, TI=0, CIF=450
+  bowl (id=32): total=450, TI=0, CIF=450
+  boy (id=33): total=450, TI=0, CIF=450
+  can (id=34): total=450, TI=0, CIF=450
+  castle (id=35): total=450, TI=0, CIF=450
+  caterpillar (id=36): total=450, TI=0, CIF=450
+  clock (id=37): total=450, TI=0, CIF=450
+  cloud (id=38): total=450, TI=0, CIF=450
+  couch (id=39): total=450, TI=0, CIF=450
+  crab (id=40): total=450, TI=0, CIF=450
+  crocodile (id=41): total=450, TI=0, CIF=450
+  cup (id=42): total=450, TI=0, CIF=450
+  dinosaur (id=43): total=450, TI=0, CIF=450
+  dolphin (id=44): total=450, TI=0, CIF=450
+  flatfish (id=45): total=450, TI=0, CIF=450
+  forest (id=46): total=450, TI=0, CIF=450
+  fox (id=47): total=450, TI=0, CIF=450
+  girl (id=48): total=450, TI=0, CIF=450
+  hamster (id=49): total=450, TI=0, CIF=450
+  house (id=50): total=450, TI=0, CIF=450
+  kangaroo (id=51): total=450, TI=0, CIF=450
+  lamp (id=52): total=450, TI=0, CIF=450
+  leopard (id=53): total=450, TI=0, CIF=450
+  lizard (id=54): total=450, TI=0, CIF=450
+  man (id=55): total=450, TI=0, CIF=450
+  maple_tree (id=56): total=450, TI=0, CIF=450
+  motorcycle (id=57): total=450, TI=0, CIF=450
+  mountain (id=58): total=450, TI=0, CIF=450
+  mouse (id=59): total=450, TI=0, CIF=450
+  oak_tree (id=60): total=450, TI=0, CIF=450
+  orchid (id=61): total=450, TI=0, CIF=450
+  otter (id=62): total=450, TI=0, CIF=450
+  palm_tree (id=63): total=450, TI=0, CIF=450
+  pear (id=64): total=450, TI=0, CIF=450
+  pickup_truck (id=65): total=450, TI=0, CIF=450
+  pine_tree (id=66): total=450, TI=0, CIF=450
+  plain (id=67): total=450, TI=0, CIF=450
+  poppy (id=68): total=450, TI=0, CIF=450
+  porcupine (id=69): total=450, TI=0, CIF=450
+  possum (id=70): total=450, TI=0, CIF=450
+  rabbit (id=71): total=450, TI=0, CIF=450
+  raccoon (id=72): total=450, TI=0, CIF=450
+  ray (id=73): total=450, TI=0, CIF=450
+  road (id=74): total=450, TI=0, CIF=450
+  rocket (id=75): total=450, TI=0, CIF=450
+  rose (id=76): total=450, TI=0, CIF=450
+  sea (id=77): total=450, TI=0, CIF=450
+  seal (id=78): total=450, TI=0, CIF=450
+  shark (id=79): total=450, TI=0, CIF=450
+  shrew (id=80): total=450, TI=0, CIF=450
+  skunk (id=81): total=450, TI=0, CIF=450
+  skyscraper (id=82): total=450, TI=0, CIF=450
+  snake (id=83): total=450, TI=0, CIF=450
+  spider (id=84): total=450, TI=0, CIF=450
+  squirrel (id=85): total=450, TI=0, CIF=450
+  streetcar (id=86): total=450, TI=0, CIF=450
+  sunflower (id=87): total=450, TI=0, CIF=450
+  tank (id=88): total=450, TI=0, CIF=450
+  television (id=89): total=450, TI=0, CIF=450
+  tiger (id=90): total=450, TI=0, CIF=450
+  trout (id=91): total=450, TI=0, CIF=450
+  tulip (id=92): total=450, TI=0, CIF=450
+  turtle (id=93): total=450, TI=0, CIF=450
+  wardrobe (id=94): total=450, TI=0, CIF=450
+  whale (id=95): total=450, TI=0, CIF=450
+  willow_tree (id=96): total=450, TI=0, CIF=450
+  wolf (id=97): total=450, TI=0, CIF=450
+  woman (id=98): total=450, TI=0, CIF=450
+  worm (id=99): total=450, TI=0, CIF=450
+  Egyptian cat (id=100): total=450, TI=450, CIF=0
+  reel (id=101): total=450, TI=450, CIF=0
+  volleyball (id=102): total=450, TI=450, CIF=0
+  lemon (id=103): total=450, TI=450, CIF=0
+  bullfrog, Rana catesbeiana (id=104): total=450, TI=450, CIF=0
+  basketball (id=105): total=450, TI=450, CIF=0
+  cliff, drop, drop-off (id=106): total=450, TI=450, CIF=0
+  espresso (id=107): total=450, TI=450, CIF=0
+  plunger, plumber's helper (id=108): total=450, TI=450, CIF=0
+  parking meter (id=109): total=450, TI=450, CIF=0
+  German shepherd, German shepherd dog, German police dog, alsatian (id=110): total=450, TI=450, CIF=0
+  pizza, pizza pie (id=111): total=450, TI=450, CIF=0
+  guinea pig, Cavia cobaya (id=112): total=450, TI=450, CIF=0
+  umbrella (id=113): total=450, TI=450, CIF=0
+  organ, pipe organ (id=114): total=450, TI=450, CIF=0
+  oboe, hautboy, hautbois (id=115): total=450, TI=450, CIF=0
+  maypole (id=116): total=450, TI=450, CIF=0
+  potpie (id=117): total=450, TI=450, CIF=0
+  hourglass (id=118): total=450, TI=450, CIF=0
+  seashore, coast, seacoast, sea-coast (id=119): total=450, TI=450, CIF=0
+  ice cream, icecream (id=120): total=450, TI=450, CIF=0
+  nail (id=121): total=450, TI=450, CIF=0
+  space heater (id=122): total=450, TI=450, CIF=0
+  cardigan (id=123): total=450, TI=450, CIF=0
+  baboon (id=124): total=450, TI=450, CIF=0
+  coral reef (id=125): total=450, TI=450, CIF=0
+  albatross, mollymawk (id=126): total=450, TI=450, CIF=0
+  spider web, spider's web (id=127): total=450, TI=450, CIF=0
+  sea cucumber, holothurian (id=128): total=450, TI=450, CIF=0
+  backpack, back pack, knapsack, packsack, rucksack, haversack (id=129): total=450, TI=450, CIF=0
+  Labrador retriever (id=130): total=450, TI=450, CIF=0
+  pretzel (id=131): total=450, TI=450, CIF=0
+  king penguin, Aptenodytes patagonica (id=132): total=450, TI=450, CIF=0
+  sulphur butterfly, sulfur butterfly (id=133): total=450, TI=450, CIF=0
+  tarantula (id=134): total=450, TI=450, CIF=0
+  lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens (id=135): total=450, TI=450, CIF=0
+  banana (id=136): total=450, TI=450, CIF=0
+  sock (id=137): total=450, TI=450, CIF=0
+  projectile, missile (id=138): total=450, TI=450, CIF=0
+  beer bottle (id=139): total=450, TI=450, CIF=0
+  mantis, mantid (id=140): total=450, TI=450, CIF=0
+  freight car (id=141): total=450, TI=450, CIF=0
+  guacamole (id=142): total=450, TI=450, CIF=0
+  remote control, remote (id=143): total=450, TI=450, CIF=0
+  European fire salamander, Salamandra salamandra (id=144): total=450, TI=450, CIF=0
+  lakeside, lakeshore (id=145): total=450, TI=450, CIF=0
+  fur coat (id=146): total=450, TI=450, CIF=0
+  alp (id=147): total=450, TI=450, CIF=0
+  lampshade, lamp shade (id=148): total=450, TI=450, CIF=0
+  torch (id=149): total=450, TI=450, CIF=0
+  abacus (id=150): total=450, TI=450, CIF=0
+  moving van (id=151): total=450, TI=450, CIF=0
+  barrel, cask (id=152): total=450, TI=450, CIF=0
+  tabby, tabby cat (id=153): total=450, TI=450, CIF=0
+  goose (id=154): total=450, TI=450, CIF=0
+  koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus (id=155): total=450, TI=450, CIF=0
+  CD player (id=156): total=450, TI=450, CIF=0
+  teapot (id=157): total=450, TI=450, CIF=0
+  birdhouse (id=158): total=450, TI=450, CIF=0
+  gazelle (id=159): total=450, TI=450, CIF=0
+  academic gown, academic robe, judge's robe (id=160): total=450, TI=450, CIF=0
+  miniskirt, mini (id=161): total=450, TI=450, CIF=0
+  golden retriever (id=162): total=450, TI=450, CIF=0
+  triumphal arch (id=163): total=450, TI=450, CIF=0
+  cannon (id=164): total=450, TI=450, CIF=0
+  neck brace (id=165): total=450, TI=450, CIF=0
+  sombrero (id=166): total=450, TI=450, CIF=0
+  gasmask, respirator, gas helmet (id=167): total=450, TI=450, CIF=0
+  candle, taper, wax light (id=168): total=450, TI=450, CIF=0
+  desk (id=169): total=450, TI=450, CIF=0
+  frying pan, frypan, skillet (id=170): total=450, TI=450, CIF=0
+  dam, dike, dyke (id=171): total=450, TI=450, CIF=0
+  spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish (id=172): total=450, TI=450, CIF=0
+  police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria (id=173): total=450, TI=450, CIF=0
+  iPod (id=174): total=450, TI=450, CIF=0
+  punching bag, punch bag, punching ball, punchball (id=175): total=450, TI=450, CIF=0
+  beacon, lighthouse, beacon light, pharos (id=176): total=450, TI=450, CIF=0
+  jellyfish (id=177): total=450, TI=450, CIF=0
+  wok (id=178): total=450, TI=450, CIF=0
+  potter's wheel (id=179): total=450, TI=450, CIF=0
+  sandal (id=180): total=450, TI=450, CIF=0
+  pill bottle (id=181): total=450, TI=450, CIF=0
+  butcher shop, meat market (id=182): total=450, TI=450, CIF=0
+  slug (id=183): total=450, TI=450, CIF=0
+  hog, pig, grunter, squealer, Sus scrofa (id=184): total=450, TI=450, CIF=0
+  cougar, puma, catamount, mountain lion, painter, panther, Felis concolor (id=185): total=450, TI=450, CIF=0
+  crane (id=186): total=450, TI=450, CIF=0
+  vestment (id=187): total=450, TI=450, CIF=0
+  dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, mosquito hawk, skeeter hawk (id=188): total=450, TI=450, CIF=0
+  cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM (id=189): total=450, TI=450, CIF=0
+  jinrikisha, ricksha, rickshaw (id=190): total=450, TI=450, CIF=0
+  water tower (id=191): total=450, TI=450, CIF=0
+  chest (id=192): total=450, TI=450, CIF=0
+  snorkel (id=193): total=450, TI=450, CIF=0
+  sunglasses, dark glasses, shades (id=194): total=450, TI=450, CIF=0
+  fly (id=195): total=450, TI=450, CIF=0
+  limousine, limo (id=196): total=450, TI=450, CIF=0
+  black stork, Ciconia nigra (id=197): total=450, TI=450, CIF=0
+  dugong, Dugong dugon (id=198): total=450, TI=450, CIF=0
+  sports car, sport car (id=199): total=450, TI=450, CIF=0
+  water jug (id=200): total=450, TI=450, CIF=0
+  ice lolly, lolly, lollipop, popsicle (id=201): total=450, TI=450, CIF=0
+  turnstile (id=202): total=450, TI=450, CIF=0
+  Christmas stocking (id=203): total=450, TI=450, CIF=0
+  broom (id=204): total=450, TI=450, CIF=0
+  scorpion (id=205): total=450, TI=450, CIF=0
+  wooden spoon (id=206): total=450, TI=450, CIF=0
+  picket fence, paling (id=207): total=450, TI=450, CIF=0
+  rugby ball (id=208): total=450, TI=450, CIF=0
+  sewing machine (id=209): total=450, TI=450, CIF=0
+  steel arch bridge (id=210): total=450, TI=450, CIF=0
+  Persian cat (id=211): total=450, TI=450, CIF=0
+  refrigerator, icebox (id=212): total=450, TI=450, CIF=0
+  barn (id=213): total=450, TI=450, CIF=0
+  apron (id=214): total=450, TI=450, CIF=0
+  Yorkshire terrier (id=215): total=450, TI=450, CIF=0
+  swimming trunks, bathing trunks (id=216): total=450, TI=450, CIF=0
+  stopwatch, stop watch (id=217): total=450, TI=450, CIF=0
+  thatch, thatched roof (id=218): total=450, TI=450, CIF=0
+  fountain (id=219): total=450, TI=450, CIF=0
+  black widow, Latrodectus mactans (id=220): total=450, TI=450, CIF=0
+  bikini, two-piece (id=221): total=450, TI=450, CIF=0
+  teddy, teddy bear (id=222): total=450, TI=450, CIF=0
+  barbershop (id=223): total=450, TI=450, CIF=0
+  confectionery, confectionary, candy store (id=224): total=450, TI=450, CIF=0
+  beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon (id=225): total=450, TI=450, CIF=0
+  scoreboard (id=226): total=450, TI=450, CIF=0
+  flagpole, flagstaff (id=227): total=450, TI=450, CIF=0
+  trolleybus, trolley coach, trackless trolley (id=228): total=450, TI=450, CIF=0
+  drumstick (id=229): total=450, TI=450, CIF=0
+  dumbbell (id=230): total=450, TI=450, CIF=0
+  brass, memorial tablet, plaque (id=231): total=450, TI=450, CIF=0
+  bow tie, bow-tie, bowtie (id=232): total=450, TI=450, CIF=0
+  convertible (id=233): total=450, TI=450, CIF=0
+  bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis (id=234): total=450, TI=450, CIF=0
+  orangutan, orang, orangutang, Pongo pygmaeus (id=235): total=450, TI=450, CIF=0
+  American alligator, Alligator mississipiensis (id=236): total=450, TI=450, CIF=0
+  centipede (id=237): total=450, TI=450, CIF=0
+  syringe (id=238): total=450, TI=450, CIF=0
+  go-kart (id=239): total=450, TI=450, CIF=0
+  brain coral (id=240): total=450, TI=450, CIF=0
+  sea slug, nudibranch (id=241): total=450, TI=450, CIF=0
+  cliff dwelling (id=242): total=450, TI=450, CIF=0
+  mashed potato (id=243): total=450, TI=450, CIF=0
+  viaduct (id=244): total=450, TI=450, CIF=0
+  military uniform (id=245): total=450, TI=450, CIF=0
+  pomegranate (id=246): total=450, TI=450, CIF=0
+  chain (id=247): total=450, TI=450, CIF=0
+  kimono (id=248): total=450, TI=450, CIF=0
+  comic book (id=249): total=450, TI=450, CIF=0
+  trilobite (id=250): total=450, TI=450, CIF=0
+  bison (id=251): total=450, TI=450, CIF=0
+  pole (id=252): total=450, TI=450, CIF=0
+  boa constrictor, Constrictor constrictor (id=253): total=450, TI=450, CIF=0
+  poncho (id=254): total=450, TI=450, CIF=0
+  bathtub, bathing tub, bath, tub (id=255): total=450, TI=450, CIF=0
+  grasshopper, hopper (id=256): total=450, TI=450, CIF=0
+  walking stick, walkingstick, stick insect (id=257): total=450, TI=450, CIF=0
+  Chihuahua (id=258): total=450, TI=450, CIF=0
+  tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui (id=259): total=450, TI=450, CIF=0
+  altar (id=260): total=450, TI=450, CIF=0
+  obelisk (id=261): total=450, TI=450, CIF=0
+  beaker (id=262): total=450, TI=450, CIF=0
+  bannister, banister, balustrade, balusters, handrail (id=263): total=450, TI=450, CIF=0
+  bucket, pail (id=264): total=450, TI=450, CIF=0
+  magnetic compass (id=265): total=450, TI=450, CIF=0
+  meat loaf, meatloaf (id=266): total=450, TI=450, CIF=0
+  gondola (id=267): total=450, TI=450, CIF=0
+  standard poodle (id=268): total=450, TI=450, CIF=0
+  acorn (id=269): total=450, TI=450, CIF=0
+  lifeboat (id=270): total=450, TI=450, CIF=0
+  binoculars, field glasses, opera glasses (id=271): total=450, TI=450, CIF=0
+  cauliflower (id=272): total=450, TI=450, CIF=0
+Split: validation
+  goldfish (id=0): total=100, TI=50, CIF=50
+  brown bear (id=1): total=100, TI=46, CIF=54
+  bee (id=2): total=100, TI=50, CIF=50
+  lady beetle (id=3): total=100, TI=44, CIF=56
+  pop bottle (id=4): total=100, TI=51, CIF=49
+  suspension bridge (id=5): total=100, TI=43, CIF=57
+  school bus (id=6): total=100, TI=54, CIF=46
+  monarch butterfly (id=7): total=100, TI=43, CIF=57
+  Arabian camel (id=8): total=100, TI=51, CIF=49
+  ox (id=9): total=100, TI=49, CIF=51
+  rocking chair (id=10): total=100, TI=51, CIF=49
+  chimpanzee (id=11): total=100, TI=48, CIF=52
+  cockroach (id=12): total=100, TI=46, CIF=54
+  African elephant (id=13): total=100, TI=46, CIF=54
+  computer keyboard (id=14): total=100, TI=48, CIF=52
+  lawn mower (id=15): total=100, TI=47, CIF=53
+  lion (id=16): total=100, TI=51, CIF=49
+  American lobster (id=17): total=100, TI=49, CIF=51
+  mushroom (id=18): total=100, TI=58, CIF=42
+  orange (id=19): total=100, TI=54, CIF=46
+  plate (id=20): total=100, TI=56, CIF=44
+  snail (id=21): total=100, TI=50, CIF=50
+  dining table (id=22): total=100, TI=58, CIF=42
+  pay-phone (id=23): total=100, TI=53, CIF=47
+  tractor (id=24): total=100, TI=62, CIF=38
+  bullet train (id=25): total=100, TI=48, CIF=52
+  bell pepper (id=26): total=100, TI=42, CIF=58
+  apple (id=27): total=50, TI=0, CIF=50
+  baby (id=28): total=50, TI=0, CIF=50
+  beaver (id=29): total=50, TI=0, CIF=50
+  bed (id=30): total=50, TI=0, CIF=50
+  bicycle (id=31): total=50, TI=0, CIF=50
+  bowl (id=32): total=50, TI=0, CIF=50
+  boy (id=33): total=50, TI=0, CIF=50
+  can (id=34): total=50, TI=0, CIF=50
+  castle (id=35): total=50, TI=0, CIF=50
+  caterpillar (id=36): total=50, TI=0, CIF=50
+  clock (id=37): total=50, TI=0, CIF=50
+  cloud (id=38): total=50, TI=0, CIF=50
+  couch (id=39): total=50, TI=0, CIF=50
+  crab (id=40): total=50, TI=0, CIF=50
+  crocodile (id=41): total=50, TI=0, CIF=50
+  cup (id=42): total=50, TI=0, CIF=50
+  dinosaur (id=43): total=50, TI=0, CIF=50
+  dolphin (id=44): total=50, TI=0, CIF=50
+  flatfish (id=45): total=50, TI=0, CIF=50
+  forest (id=46): total=50, TI=0, CIF=50
+  fox (id=47): total=50, TI=0, CIF=50
+  girl (id=48): total=50, TI=0, CIF=50
+  hamster (id=49): total=50, TI=0, CIF=50
+  house (id=50): total=50, TI=0, CIF=50
+  kangaroo (id=51): total=50, TI=0, CIF=50
+  lamp (id=52): total=50, TI=0, CIF=50
+  leopard (id=53): total=50, TI=0, CIF=50
+  lizard (id=54): total=50, TI=0, CIF=50
+  man (id=55): total=50, TI=0, CIF=50
+  maple_tree (id=56): total=50, TI=0, CIF=50
+  motorcycle (id=57): total=50, TI=0, CIF=50
+  mountain (id=58): total=50, TI=0, CIF=50
+  mouse (id=59): total=50, TI=0, CIF=50
+  oak_tree (id=60): total=50, TI=0, CIF=50
+  orchid (id=61): total=50, TI=0, CIF=50
+  otter (id=62): total=50, TI=0, CIF=50
+  palm_tree (id=63): total=50, TI=0, CIF=50
+  pear (id=64): total=50, TI=0, CIF=50
+  pickup_truck (id=65): total=50, TI=0, CIF=50
+  pine_tree (id=66): total=50, TI=0, CIF=50
+  plain (id=67): total=50, TI=0, CIF=50
+  poppy (id=68): total=50, TI=0, CIF=50
+  porcupine (id=69): total=50, TI=0, CIF=50
+  possum (id=70): total=50, TI=0, CIF=50
+  rabbit (id=71): total=50, TI=0, CIF=50
+  raccoon (id=72): total=50, TI=0, CIF=50
+  ray (id=73): total=50, TI=0, CIF=50
+  road (id=74): total=50, TI=0, CIF=50
+  rocket (id=75): total=50, TI=0, CIF=50
+  rose (id=76): total=50, TI=0, CIF=50
+  sea (id=77): total=50, TI=0, CIF=50
+  seal (id=78): total=50, TI=0, CIF=50
+  shark (id=79): total=50, TI=0, CIF=50
+  shrew (id=80): total=50, TI=0, CIF=50
+  skunk (id=81): total=50, TI=0, CIF=50
+  skyscraper (id=82): total=50, TI=0, CIF=50
+  snake (id=83): total=50, TI=0, CIF=50
+  spider (id=84): total=50, TI=0, CIF=50
+  squirrel (id=85): total=50, TI=0, CIF=50
+  streetcar (id=86): total=50, TI=0, CIF=50
+  sunflower (id=87): total=50, TI=0, CIF=50
+  tank (id=88): total=50, TI=0, CIF=50
+  television (id=89): total=50, TI=0, CIF=50
+  tiger (id=90): total=50, TI=0, CIF=50
+  trout (id=91): total=50, TI=0, CIF=50
+  tulip (id=92): total=50, TI=0, CIF=50
+  turtle (id=93): total=50, TI=0, CIF=50
+  wardrobe (id=94): total=50, TI=0, CIF=50
+  whale (id=95): total=50, TI=0, CIF=50
+  willow_tree (id=96): total=50, TI=0, CIF=50
+  wolf (id=97): total=50, TI=0, CIF=50
+  woman (id=98): total=50, TI=0, CIF=50
+  worm (id=99): total=50, TI=0, CIF=50
+  Egyptian cat (id=100): total=50, TI=50, CIF=0
+  reel (id=101): total=50, TI=50, CIF=0
+  volleyball (id=102): total=50, TI=50, CIF=0
+  lemon (id=103): total=50, TI=50, CIF=0
+  bullfrog, Rana catesbeiana (id=104): total=50, TI=50, CIF=0
+  basketball (id=105): total=50, TI=50, CIF=0
+  cliff, drop, drop-off (id=106): total=50, TI=50, CIF=0
+  espresso (id=107): total=50, TI=50, CIF=0
+  plunger, plumber's helper (id=108): total=50, TI=50, CIF=0
+  parking meter (id=109): total=50, TI=50, CIF=0
+  German shepherd, German shepherd dog, German police dog, alsatian (id=110): total=50, TI=50, CIF=0
+  pizza, pizza pie (id=111): total=50, TI=50, CIF=0
+  guinea pig, Cavia cobaya (id=112): total=50, TI=50, CIF=0
+  umbrella (id=113): total=50, TI=50, CIF=0
+  organ, pipe organ (id=114): total=50, TI=50, CIF=0
+  oboe, hautboy, hautbois (id=115): total=50, TI=50, CIF=0
+  maypole (id=116): total=50, TI=50, CIF=0
+  potpie (id=117): total=50, TI=50, CIF=0
+  hourglass (id=118): total=50, TI=50, CIF=0
+  seashore, coast, seacoast, sea-coast (id=119): total=50, TI=50, CIF=0
+  ice cream, icecream (id=120): total=50, TI=50, CIF=0
+  nail (id=121): total=50, TI=50, CIF=0
+  space heater (id=122): total=50, TI=50, CIF=0
+  cardigan (id=123): total=50, TI=50, CIF=0
+  baboon (id=124): total=50, TI=50, CIF=0
+  coral reef (id=125): total=50, TI=50, CIF=0
+  albatross, mollymawk (id=126): total=50, TI=50, CIF=0
+  spider web, spider's web (id=127): total=50, TI=50, CIF=0
+  sea cucumber, holothurian (id=128): total=50, TI=50, CIF=0
+  backpack, back pack, knapsack, packsack, rucksack, haversack (id=129): total=50, TI=50, CIF=0
+  Labrador retriever (id=130): total=50, TI=50, CIF=0
+  pretzel (id=131): total=50, TI=50, CIF=0
+  king penguin, Aptenodytes patagonica (id=132): total=50, TI=50, CIF=0
+  sulphur butterfly, sulfur butterfly (id=133): total=50, TI=50, CIF=0
+  tarantula (id=134): total=50, TI=50, CIF=0
+  lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens (id=135): total=50, TI=50, CIF=0
+  banana (id=136): total=50, TI=50, CIF=0
+  sock (id=137): total=50, TI=50, CIF=0
+  projectile, missile (id=138): total=50, TI=50, CIF=0
+  beer bottle (id=139): total=50, TI=50, CIF=0
+  mantis, mantid (id=140): total=50, TI=50, CIF=0
+  freight car (id=141): total=50, TI=50, CIF=0
+  guacamole (id=142): total=50, TI=50, CIF=0
+  remote control, remote (id=143): total=50, TI=50, CIF=0
+  European fire salamander, Salamandra salamandra (id=144): total=50, TI=50, CIF=0
+  lakeside, lakeshore (id=145): total=50, TI=50, CIF=0
+  fur coat (id=146): total=50, TI=50, CIF=0
+  alp (id=147): total=50, TI=50, CIF=0
+  lampshade, lamp shade (id=148): total=50, TI=50, CIF=0
+  torch (id=149): total=50, TI=50, CIF=0
+  abacus (id=150): total=50, TI=50, CIF=0
+  moving van (id=151): total=50, TI=50, CIF=0
+  barrel, cask (id=152): total=50, TI=50, CIF=0
+  tabby, tabby cat (id=153): total=50, TI=50, CIF=0
+  goose (id=154): total=50, TI=50, CIF=0
+  koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus (id=155): total=50, TI=50, CIF=0
+  CD player (id=156): total=50, TI=50, CIF=0
+  teapot (id=157): total=50, TI=50, CIF=0
+  birdhouse (id=158): total=50, TI=50, CIF=0
+  gazelle (id=159): total=50, TI=50, CIF=0
+  academic gown, academic robe, judge's robe (id=160): total=50, TI=50, CIF=0
+  miniskirt, mini (id=161): total=50, TI=50, CIF=0
+  golden retriever (id=162): total=50, TI=50, CIF=0
+  triumphal arch (id=163): total=50, TI=50, CIF=0
+  cannon (id=164): total=50, TI=50, CIF=0
+  neck brace (id=165): total=50, TI=50, CIF=0
+  sombrero (id=166): total=50, TI=50, CIF=0
+  gasmask, respirator, gas helmet (id=167): total=50, TI=50, CIF=0
+  candle, taper, wax light (id=168): total=50, TI=50, CIF=0
+  desk (id=169): total=50, TI=50, CIF=0
+  frying pan, frypan, skillet (id=170): total=50, TI=50, CIF=0
+  dam, dike, dyke (id=171): total=50, TI=50, CIF=0
+  spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish (id=172): total=50, TI=50, CIF=0
+  police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria (id=173): total=50, TI=50, CIF=0
+  iPod (id=174): total=50, TI=50, CIF=0
+  punching bag, punch bag, punching ball, punchball (id=175): total=50, TI=50, CIF=0
+  beacon, lighthouse, beacon light, pharos (id=176): total=50, TI=50, CIF=0
+  jellyfish (id=177): total=50, TI=50, CIF=0
+  wok (id=178): total=50, TI=50, CIF=0
+  potter's wheel (id=179): total=50, TI=50, CIF=0
+  sandal (id=180): total=50, TI=50, CIF=0
+  pill bottle (id=181): total=50, TI=50, CIF=0
+  butcher shop, meat market (id=182): total=50, TI=50, CIF=0
+  slug (id=183): total=50, TI=50, CIF=0
+  hog, pig, grunter, squealer, Sus scrofa (id=184): total=50, TI=50, CIF=0
+  cougar, puma, catamount, mountain lion, painter, panther, Felis concolor (id=185): total=50, TI=50, CIF=0
+  crane (id=186): total=50, TI=50, CIF=0
+  vestment (id=187): total=50, TI=50, CIF=0
+  dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, mosquito hawk, skeeter hawk (id=188): total=50, TI=50, CIF=0
+  cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM (id=189): total=50, TI=50, CIF=0
+  jinrikisha, ricksha, rickshaw (id=190): total=50, TI=50, CIF=0
+  water tower (id=191): total=50, TI=50, CIF=0
+  chest (id=192): total=50, TI=50, CIF=0
+  snorkel (id=193): total=50, TI=50, CIF=0
+  sunglasses, dark glasses, shades (id=194): total=50, TI=50, CIF=0
+  fly (id=195): total=50, TI=50, CIF=0
+  limousine, limo (id=196): total=50, TI=50, CIF=0
+  black stork, Ciconia nigra (id=197): total=50, TI=50, CIF=0
+  dugong, Dugong dugon (id=198): total=50, TI=50, CIF=0
+  sports car, sport car (id=199): total=50, TI=50, CIF=0
+  water jug (id=200): total=50, TI=50, CIF=0
+  ice lolly, lolly, lollipop, popsicle (id=201): total=50, TI=50, CIF=0
+  turnstile (id=202): total=50, TI=50, CIF=0
+  Christmas stocking (id=203): total=50, TI=50, CIF=0
+  broom (id=204): total=50, TI=50, CIF=0
+  scorpion (id=205): total=50, TI=50, CIF=0
+  wooden spoon (id=206): total=50, TI=50, CIF=0
+  picket fence, paling (id=207): total=50, TI=50, CIF=0
+  rugby ball (id=208): total=50, TI=50, CIF=0
+  sewing machine (id=209): total=50, TI=50, CIF=0
+  steel arch bridge (id=210): total=50, TI=50, CIF=0
+  Persian cat (id=211): total=50, TI=50, CIF=0
+  refrigerator, icebox (id=212): total=50, TI=50, CIF=0
+  barn (id=213): total=50, TI=50, CIF=0
+  apron (id=214): total=50, TI=50, CIF=0
+  Yorkshire terrier (id=215): total=50, TI=50, CIF=0
+  swimming trunks, bathing trunks (id=216): total=50, TI=50, CIF=0
+  stopwatch, stop watch (id=217): total=50, TI=50, CIF=0
+  thatch, thatched roof (id=218): total=50, TI=50, CIF=0
+  fountain (id=219): total=50, TI=50, CIF=0
+  black widow, Latrodectus mactans (id=220): total=50, TI=50, CIF=0
+  bikini, two-piece (id=221): total=50, TI=50, CIF=0
+  teddy, teddy bear (id=222): total=50, TI=50, CIF=0
+  barbershop (id=223): total=50, TI=50, CIF=0
+  confectionery, confectionary, candy store (id=224): total=50, TI=50, CIF=0
+  beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon (id=225): total=50, TI=50, CIF=0
+  scoreboard (id=226): total=50, TI=50, CIF=0
+  flagpole, flagstaff (id=227): total=50, TI=50, CIF=0
+  trolleybus, trolley coach, trackless trolley (id=228): total=50, TI=50, CIF=0
+  drumstick (id=229): total=50, TI=50, CIF=0
+  dumbbell (id=230): total=50, TI=50, CIF=0
+  brass, memorial tablet, plaque (id=231): total=50, TI=50, CIF=0
+  bow tie, bow-tie, bowtie (id=232): total=50, TI=50, CIF=0
+  convertible (id=233): total=50, TI=50, CIF=0
+  bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis (id=234): total=50, TI=50, CIF=0
+  orangutan, orang, orangutang, Pongo pygmaeus (id=235): total=50, TI=50, CIF=0
+  American alligator, Alligator mississipiensis (id=236): total=50, TI=50, CIF=0
+  centipede (id=237): total=50, TI=50, CIF=0
+  syringe (id=238): total=50, TI=50, CIF=0
+  go-kart (id=239): total=50, TI=50, CIF=0
+  brain coral (id=240): total=50, TI=50, CIF=0
+  sea slug, nudibranch (id=241): total=50, TI=50, CIF=0
+  cliff dwelling (id=242): total=50, TI=50, CIF=0
+  mashed potato (id=243): total=50, TI=50, CIF=0
+  viaduct (id=244): total=50, TI=50, CIF=0
+  military uniform (id=245): total=50, TI=50, CIF=0
+  pomegranate (id=246): total=50, TI=50, CIF=0
+  chain (id=247): total=50, TI=50, CIF=0
+  kimono (id=248): total=50, TI=50, CIF=0
+  comic book (id=249): total=50, TI=50, CIF=0
+  trilobite (id=250): total=50, TI=50, CIF=0
+  bison (id=251): total=50, TI=50, CIF=0
+  pole (id=252): total=50, TI=50, CIF=0
+  boa constrictor, Constrictor constrictor (id=253): total=50, TI=50, CIF=0
+  poncho (id=254): total=50, TI=50, CIF=0
+  bathtub, bathing tub, bath, tub (id=255): total=50, TI=50, CIF=0
+  grasshopper, hopper (id=256): total=50, TI=50, CIF=0
+  walking stick, walkingstick, stick insect (id=257): total=50, TI=50, CIF=0
+  Chihuahua (id=258): total=50, TI=50, CIF=0
+  tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui (id=259): total=50, TI=50, CIF=0
+  altar (id=260): total=50, TI=50, CIF=0
+  obelisk (id=261): total=50, TI=50, CIF=0
+  beaker (id=262): total=50, TI=50, CIF=0
+  bannister, banister, balustrade, balusters, handrail (id=263): total=50, TI=50, CIF=0
+  bucket, pail (id=264): total=50, TI=50, CIF=0
+  magnetic compass (id=265): total=50, TI=50, CIF=0
+  meat loaf, meatloaf (id=266): total=50, TI=50, CIF=0
+  gondola (id=267): total=50, TI=50, CIF=0
+  standard poodle (id=268): total=50, TI=50, CIF=0
+  acorn (id=269): total=50, TI=50, CIF=0
+  lifeboat (id=270): total=50, TI=50, CIF=0
+  binoculars, field glasses, opera glasses (id=271): total=50, TI=50, CIF=0
+  cauliflower (id=272): total=50, TI=50, CIF=0

@@ -1,0 +1,332 @@
+=== Split Statistics ===
+Split: test
+  goldfish (id=0): total=150, TI=50, CIF=100
+  brown bear (id=1): total=150, TI=50, CIF=100
+  bee (id=2): total=150, TI=50, CIF=100
+  lady beetle (id=3): total=150, TI=50, CIF=100
+  pop bottle (id=4): total=150, TI=50, CIF=100
+  suspension bridge (id=5): total=150, TI=50, CIF=100
+  school bus (id=6): total=150, TI=50, CIF=100
+  monarch butterfly (id=7): total=150, TI=50, CIF=100
+  Arabian camel (id=8): total=150, TI=50, CIF=100
+  ox (id=9): total=150, TI=50, CIF=100
+  rocking chair (id=10): total=150, TI=50, CIF=100
+  chimpanzee (id=11): total=150, TI=50, CIF=100
+  cockroach (id=12): total=150, TI=50, CIF=100
+  African elephant (id=13): total=150, TI=50, CIF=100
+  computer keyboard (id=14): total=150, TI=50, CIF=100
+  lawn mower (id=15): total=150, TI=50, CIF=100
+  lion (id=16): total=150, TI=50, CIF=100
+  American lobster (id=17): total=150, TI=50, CIF=100
+  mushroom (id=18): total=150, TI=50, CIF=100
+  orange (id=19): total=150, TI=50, CIF=100
+  plate (id=20): total=150, TI=50, CIF=100
+  snail (id=21): total=150, TI=50, CIF=100
+  dining table (id=22): total=150, TI=50, CIF=100
+  pay-phone (id=23): total=150, TI=50, CIF=100
+  tractor (id=24): total=150, TI=50, CIF=100
+  bullet train (id=25): total=150, TI=50, CIF=100
+  bell pepper (id=26): total=150, TI=50, CIF=100
+Split: train
+  goldfish (id=0): total=900, TI=450, CIF=450
+  brown bear (id=1): total=900, TI=454, CIF=446
+  bee (id=2): total=900, TI=450, CIF=450
+  lady beetle (id=3): total=900, TI=456, CIF=444
+  pop bottle (id=4): total=900, TI=449, CIF=451
+  suspension bridge (id=5): total=900, TI=457, CIF=443
+  school bus (id=6): total=900, TI=446, CIF=454
+  monarch butterfly (id=7): total=900, TI=457, CIF=443
+  Arabian camel (id=8): total=900, TI=449, CIF=451
+  ox (id=9): total=900, TI=451, CIF=449
+  rocking chair (id=10): total=900, TI=449, CIF=451
+  chimpanzee (id=11): total=900, TI=452, CIF=448
+  cockroach (id=12): total=900, TI=454, CIF=446
+  African elephant (id=13): total=900, TI=454, CIF=446
+  computer keyboard (id=14): total=900, TI=452, CIF=448
+  lawn mower (id=15): total=900, TI=453, CIF=447
+  lion (id=16): total=900, TI=449, CIF=451
+  American lobster (id=17): total=900, TI=451, CIF=449
+  mushroom (id=18): total=900, TI=442, CIF=458
+  orange (id=19): total=900, TI=446, CIF=454
+  plate (id=20): total=900, TI=444, CIF=456
+  snail (id=21): total=900, TI=450, CIF=450
+  dining table (id=22): total=900, TI=442, CIF=458
+  pay-phone (id=23): total=900, TI=447, CIF=453
+  tractor (id=24): total=900, TI=438, CIF=462
+  bullet train (id=25): total=900, TI=452, CIF=448
+  bell pepper (id=26): total=900, TI=458, CIF=442
+Split: validation
+  goldfish (id=0): total=100, TI=50, CIF=50
+  brown bear (id=1): total=100, TI=46, CIF=54
+  bee (id=2): total=100, TI=50, CIF=50
+  lady beetle (id=3): total=100, TI=44, CIF=56
+  pop bottle (id=4): total=100, TI=51, CIF=49
+  suspension bridge (id=5): total=100, TI=43, CIF=57
+  school bus (id=6): total=100, TI=54, CIF=46
+  monarch butterfly (id=7): total=100, TI=43, CIF=57
+  Arabian camel (id=8): total=100, TI=51, CIF=49
+  ox (id=9): total=100, TI=49, CIF=51
+  rocking chair (id=10): total=100, TI=51, CIF=49
+  chimpanzee (id=11): total=100, TI=48, CIF=52
+  cockroach (id=12): total=100, TI=46, CIF=54
+  African elephant (id=13): total=100, TI=46, CIF=54
+  computer keyboard (id=14): total=100, TI=48, CIF=52
+  lawn mower (id=15): total=100, TI=47, CIF=53
+  lion (id=16): total=100, TI=51, CIF=49
+  American lobster (id=17): total=100, TI=49, CIF=51
+  mushroom (id=18): total=100, TI=58, CIF=42
+  orange (id=19): total=100, TI=54, CIF=46
+  plate (id=20): total=100, TI=56, CIF=44
+  snail (id=21): total=100, TI=50, CIF=50
+  dining table (id=22): total=100, TI=58, CIF=42
+  pay-phone (id=23): total=100, TI=53, CIF=47
+  tractor (id=24): total=100, TI=62, CIF=38
+  bullet train (id=25): total=100, TI=48, CIF=52
+  bell pepper (id=26): total=100, TI=42, CIF=58
+Split: Non-Semantic Test
+  n03444034_go-kart: total=50, TI=50, CIF=0
+  n04067472_reel: total=50, TI=50, CIF=0
+  n04070727_refrigerator,_icebox: total=50, TI=50, CIF=0
+  n02808440_bathtub,_bathing_tub,_bath,_tub: total=50, TI=50, CIF=0
+  n04399382_teddy,_teddy_bear: total=50, TI=50, CIF=0
+  n04179913_sewing_machine: total=50, TI=50, CIF=0
+  n02823428_beer_bottle: total=50, TI=50, CIF=0
+  n02226429_grasshopper,_hopper: total=50, TI=50, CIF=0
+  n04371430_swimming_trunks,_bathing_trunks: total=50, TI=50, CIF=0
+  n07753592_banana: total=50, TI=50, CIF=0
+  n03770439_miniskirt,_mini: total=50, TI=50, CIF=0
+  n02056570_king_penguin,_Aptenodytes_patagonica: total=50, TI=50, CIF=0
+  n02906734_broom: total=50, TI=50, CIF=0
+  n02125311_cougar,_puma,_catamount,_mountain_lion,_painter,_panther,_Felis_concolor: total=50, TI=50, CIF=0
+  n04486054_triumphal_arch: total=50, TI=50, CIF=0
+  n04285008_sports_car,_sport_car: total=50, TI=50, CIF=0
+  n03763968_military_uniform: total=50, TI=50, CIF=0
+  n03814639_neck_brace: total=50, TI=50, CIF=0
+  n03837869_obelisk: total=50, TI=50, CIF=0
+  n01629819_European_fire_salamander,_Salamandra_salamandra: total=50, TI=50, CIF=0
+  n04532670_viaduct: total=50, TI=50, CIF=0
+  n04074963_remote_control,_remote: total=50, TI=50, CIF=0
+  n04540053_volleyball: total=50, TI=50, CIF=0
+  n02094433_Yorkshire_terrier: total=50, TI=50, CIF=0
+  n03796401_moving_van: total=50, TI=50, CIF=0
+  n07614500_ice_cream,_icecream: total=50, TI=50, CIF=0
+  n03937543_pill_bottle: total=50, TI=50, CIF=0
+  n06596364_comic_book: total=50, TI=50, CIF=0
+  n02977058_cash_machine,_cash_dispenser,_automated_teller_machine,_automatic_teller_machine,_automated_teller,_automatic_teller,_ATM: total=50, TI=50, CIF=0
+  n01768244_trilobite: total=50, TI=50, CIF=0
+  n03930313_picket_fence,_paling: total=50, TI=50, CIF=0
+  n03891332_parking_meter: total=50, TI=50, CIF=0
+  n02231487_walking_stick,_walkingstick,_stick_insect: total=50, TI=50, CIF=0
+  n03584254_iPod: total=50, TI=50, CIF=0
+  n04376876_syringe: total=50, TI=50, CIF=0
+  n02909870_bucket,_pail: total=50, TI=50, CIF=0
+  n01774750_tarantula: total=50, TI=50, CIF=0
+  n01917289_brain_coral: total=50, TI=50, CIF=0
+  n02841315_binoculars,_field_glasses,_opera_glasses: total=50, TI=50, CIF=0
+  n12267677_acorn: total=50, TI=50, CIF=0
+  n01784675_centipede: total=50, TI=50, CIF=0
+  n03250847_drumstick: total=50, TI=50, CIF=0
+  n02793495_barn: total=50, TI=50, CIF=0
+  n04398044_teapot: total=50, TI=50, CIF=0
+  n03355925_flagpole,_flagstaff: total=50, TI=50, CIF=0
+  n03388043_fountain: total=50, TI=50, CIF=0
+  n04562935_water_tower: total=50, TI=50, CIF=0
+  n03733131_maypole: total=50, TI=50, CIF=0
+  n03126707_crane: total=50, TI=50, CIF=0
+  n01770393_scorpion: total=50, TI=50, CIF=0
+  n03970156_plunger,_plumber's_helper: total=50, TI=50, CIF=0
+  n03637318_lampshade,_lamp_shade: total=50, TI=50, CIF=0
+  n01742172_boa_constrictor,_Constrictor_constrictor: total=50, TI=50, CIF=0
+  n02123045_tabby,_tabby_cat: total=50, TI=50, CIF=0
+  n01698640_American_alligator,_Alligator_mississipiensis: total=50, TI=50, CIF=0
+  n07749582_lemon: total=50, TI=50, CIF=0
+  n01945685_slug: total=50, TI=50, CIF=0
+  n02074367_dugong,_Dugong_dugon: total=50, TI=50, CIF=0
+  n03026506_Christmas_stocking: total=50, TI=50, CIF=0
+  n03544143_hourglass: total=50, TI=50, CIF=0
+  n02002724_black_stork,_Ciconia_nigra: total=50, TI=50, CIF=0
+  n02948072_candle,_taper,_wax_light: total=50, TI=50, CIF=0
+  n02769748_backpack,_back_pack,_knapsack,_packsack,_rucksack,_haversack: total=50, TI=50, CIF=0
+  n04487081_trolleybus,_trolley_coach,_trackless_trolley: total=50, TI=50, CIF=0
+  n02236044_mantis,_mantid: total=50, TI=50, CIF=0
+  n09193705_alp: total=50, TI=50, CIF=0
+  n02124075_Egyptian_cat: total=50, TI=50, CIF=0
+  n04265275_space_heater: total=50, TI=50, CIF=0
+  n04596742_wok: total=50, TI=50, CIF=0
+  n02795169_barrel,_cask: total=50, TI=50, CIF=0
+  n04560804_water_jug: total=50, TI=50, CIF=0
+  n04023962_punching_bag,_punch_bag,_punching_ball,_punchball: total=50, TI=50, CIF=0
+  n02190166_fly: total=50, TI=50, CIF=0
+  n03838899_oboe,_hautboy,_hautbois: total=50, TI=50, CIF=0
+  n02410509_bison: total=50, TI=50, CIF=0
+  n09256479_coral_reef: total=50, TI=50, CIF=0
+  n02892201_brass,_memorial_tablet,_plaque: total=50, TI=50, CIF=0
+  n01641577_bullfrog,_Rana_catesbeiana: total=50, TI=50, CIF=0
+  n07871810_meat_loaf,_meatloaf: total=50, TI=50, CIF=0
+  n04328186_stopwatch,_stop_watch: total=50, TI=50, CIF=0
+  n02364673_guinea_pig,_Cavia_cobaya: total=50, TI=50, CIF=0
+  n02950826_cannon: total=50, TI=50, CIF=0
+  n02085620_Chihuahua: total=50, TI=50, CIF=0
+  n04008634_projectile,_missile: total=50, TI=50, CIF=0
+  n07615774_ice_lolly,_lolly,_lollipop,_popsicle: total=50, TI=50, CIF=0
+  n03042490_cliff_dwelling: total=50, TI=50, CIF=0
+  n07768694_pomegranate: total=50, TI=50, CIF=0
+  n02113799_standard_poodle: total=50, TI=50, CIF=0
+  n03599486_jinrikisha,_ricksha,_rickshaw: total=50, TI=50, CIF=0
+  n02415577_bighorn,_bighorn_sheep,_cimarron,_Rocky_Mountain_bighorn,_Rocky_Mountain_sheep,_Ovis_canadensis: total=50, TI=50, CIF=0
+  n04311004_steel_arch_bridge: total=50, TI=50, CIF=0
+  n02666196_abacus: total=50, TI=50, CIF=0
+  n04417672_thatch,_thatched_roof: total=50, TI=50, CIF=0
+  n07695742_pretzel: total=50, TI=50, CIF=0
+  n03393912_freight_car: total=50, TI=50, CIF=0
+  n03662601_lifeboat: total=50, TI=50, CIF=0
+  n02321529_sea_cucumber,_holothurian: total=50, TI=50, CIF=0
+  n04254777_sock: total=50, TI=50, CIF=0
+  n03992509_potter's_wheel: total=50, TI=50, CIF=0
+  n01950731_sea_slug,_nudibranch: total=50, TI=50, CIF=0
+  n01910747_jellyfish: total=50, TI=50, CIF=0
+  n01774384_black_widow,_Latrodectus_mactans: total=50, TI=50, CIF=0
+  n04259630_sombrero: total=50, TI=50, CIF=0
+  n02837789_bikini,_two-piece: total=50, TI=50, CIF=0
+  n02509815_lesser_panda,_red_panda,_panda,_bear_cat,_cat_bear,_Ailurus_fulgens: total=50, TI=50, CIF=0
+  n03424325_gasmask,_respirator,_gas_helmet: total=50, TI=50, CIF=0
+  n02814860_beacon,_lighthouse,_beacon_light,_pharos: total=50, TI=50, CIF=0
+  n04456115_torch: total=50, TI=50, CIF=0
+  n03980874_poncho: total=50, TI=50, CIF=0
+  n02123394_Persian_cat: total=50, TI=50, CIF=0
+  n07711569_mashed_potato: total=50, TI=50, CIF=0
+  n02927161_butcher_shop,_meat_market: total=50, TI=50, CIF=0
+  n03854065_organ,_pipe_organ: total=50, TI=50, CIF=0
+  n02883205_bow_tie,_bow-tie,_bowtie: total=50, TI=50, CIF=0
+  n02099601_golden_retriever: total=50, TI=50, CIF=0
+  n09428293_seashore,_coast,_seacoast,_sea-coast: total=50, TI=50, CIF=0
+  n02669723_academic_gown,_academic_robe,_judge's_robe: total=50, TI=50, CIF=0
+  n02699494_altar: total=50, TI=50, CIF=0
+  n02814533_beach_wagon,_station_wagon,_wagon,_estate_car,_beach_waggon,_station_waggon,_waggon: total=50, TI=50, CIF=0
+  n07715103_cauliflower: total=50, TI=50, CIF=0
+  n09246464_cliff,_drop,_drop-off: total=50, TI=50, CIF=0
+  n02480495_orangutan,_orang,_orangutang,_Pongo_pygmaeus: total=50, TI=50, CIF=0
+  n02843684_birdhouse: total=50, TI=50, CIF=0
+  n03100240_convertible: total=50, TI=50, CIF=0
+  n01882714_koala,_koala_bear,_kangaroo_bear,_native_bear,_Phascolarctos_cinereus: total=50, TI=50, CIF=0
+  n03447447_gondola: total=50, TI=50, CIF=0
+  n01855672_goose: total=50, TI=50, CIF=0
+  n04356056_sunglasses,_dark_glasses,_shades: total=50, TI=50, CIF=0
+  n03400231_frying_pan,_frypan,_skillet: total=50, TI=50, CIF=0
+  n01644900_tailed_frog,_bell_toad,_ribbed_toad,_tailed_toad,_Ascaphus_trui: total=50, TI=50, CIF=0
+  n07873807_pizza,_pizza_pie: total=50, TI=50, CIF=0
+  n03670208_limousine,_limo: total=50, TI=50, CIF=0
+  n02395406_hog,_pig,_grunter,_squealer,_Sus_scrofa: total=50, TI=50, CIF=0
+  n03179701_desk: total=50, TI=50, CIF=0
+  n02791270_barbershop: total=50, TI=50, CIF=0
+  n04133789_sandal: total=50, TI=50, CIF=0
+  n02268443_dragonfly,_darning_needle,_devil's_darning_needle,_sewing_needle,_snake_feeder,_snake_doctor,_mosquito_hawk,_skeeter_hawk: total=50, TI=50, CIF=0
+  n02988304_CD_player: total=50, TI=50, CIF=0
+  n02788148_bannister,_banister,_balustrade,_balusters,_handrail: total=50, TI=50, CIF=0
+  n03014705_chest: total=50, TI=50, CIF=0
+  n04597913_wooden_spoon: total=50, TI=50, CIF=0
+  n03089624_confectionery,_confectionary,_candy_store: total=50, TI=50, CIF=0
+  n02999410_chain: total=50, TI=50, CIF=0
+  n02486410_baboon: total=50, TI=50, CIF=0
+  n03404251_fur_coat: total=50, TI=50, CIF=0
+  n04507155_umbrella: total=50, TI=50, CIF=0
+  n02815834_beaker: total=50, TI=50, CIF=0
+  n04149813_scoreboard: total=50, TI=50, CIF=0
+  n02730930_apron: total=50, TI=50, CIF=0
+  n04251144_snorkel: total=50, TI=50, CIF=0
+  n02058221_albatross,_mollymawk: total=50, TI=50, CIF=0
+  n04275548_spider_web,_spider's_web: total=50, TI=50, CIF=0
+  n02802426_basketball: total=50, TI=50, CIF=0
+  n03160309_dam,_dike,_dyke: total=50, TI=50, CIF=0
+  n02099712_Labrador_retriever: total=50, TI=50, CIF=0
+  n03706229_magnetic_compass: total=50, TI=50, CIF=0
+  n07583066_guacamole: total=50, TI=50, CIF=0
+  n03804744_nail: total=50, TI=50, CIF=0
+  n02281406_sulphur_butterfly,_sulfur_butterfly: total=50, TI=50, CIF=0
+  n03617480_kimono: total=50, TI=50, CIF=0
+  n09332890_lakeside,_lakeshore: total=50, TI=50, CIF=0
+  n03977966_police_van,_police_wagon,_paddy_wagon,_patrol_wagon,_wagon,_black_Maria: total=50, TI=50, CIF=0
+  n03255030_dumbbell: total=50, TI=50, CIF=0
+  n02963159_cardigan: total=50, TI=50, CIF=0
+  n02106662_German_shepherd,_German_shepherd_dog,_German_police_dog,_alsatian: total=50, TI=50, CIF=0
+  n02423022_gazelle: total=50, TI=50, CIF=0
+  n01984695_spiny_lobster,_langouste,_rock_lobster,_crawfish,_crayfish,_sea_crawfish: total=50, TI=50, CIF=0
+  n04501370_turnstile: total=50, TI=50, CIF=0
+  n03976657_pole: total=50, TI=50, CIF=0
+  n07875152_potpie: total=50, TI=50, CIF=0
+  n04532106_vestment: total=50, TI=50, CIF=0
+  n07920052_espresso: total=50, TI=50, CIF=0
+  n04118538_rugby_ball: total=50, TI=50, CIF=0
+  49_mountain: total=100, TI=0, CIF=100
+  33_forest: total=100, TI=0, CIF=100
+  72_seal: total=100, TI=0, CIF=100
+  71_sea: total=100, TI=0, CIF=100
+  92_tulip: total=100, TI=0, CIF=100
+  23_cloud: total=100, TI=0, CIF=100
+  0_apple: total=100, TI=0, CIF=100
+  75_skunk: total=100, TI=0, CIF=100
+  81_streetcar: total=100, TI=0, CIF=100
+  69_rocket: total=100, TI=0, CIF=100
+  40_lamp: total=100, TI=0, CIF=100
+  97_wolf: total=100, TI=0, CIF=100
+  70_rose: total=100, TI=0, CIF=100
+  29_dinosaur: total=100, TI=0, CIF=100
+  16_can: total=100, TI=0, CIF=100
+  8_bicycle: total=100, TI=0, CIF=100
+  93_turtle: total=100, TI=0, CIF=100
+  56_palm_tree: total=100, TI=0, CIF=100
+  73_shark: total=100, TI=0, CIF=100
+  58_pickup_truck: total=100, TI=0, CIF=100
+  11_boy: total=100, TI=0, CIF=100
+  25_couch: total=100, TI=0, CIF=100
+  37_house: total=100, TI=0, CIF=100
+  63_porcupine: total=100, TI=0, CIF=100
+  22_clock: total=100, TI=0, CIF=100
+  17_castle: total=100, TI=0, CIF=100
+  4_beaver: total=100, TI=0, CIF=100
+  57_pear: total=100, TI=0, CIF=100
+  2_baby: total=100, TI=0, CIF=100
+  32_flatfish: total=100, TI=0, CIF=100
+  52_oak_tree: total=100, TI=0, CIF=100
+  42_leopard: total=100, TI=0, CIF=100
+  27_crocodile: total=100, TI=0, CIF=100
+  65_rabbit: total=100, TI=0, CIF=100
+  35_girl: total=100, TI=0, CIF=100
+  82_sunflower: total=100, TI=0, CIF=100
+  66_raccoon: total=100, TI=0, CIF=100
+  67_ray: total=100, TI=0, CIF=100
+  91_trout: total=100, TI=0, CIF=100
+  10_bowl: total=100, TI=0, CIF=100
+  78_snake: total=100, TI=0, CIF=100
+  54_orchid: total=100, TI=0, CIF=100
+  18_caterpillar: total=100, TI=0, CIF=100
+  50_mouse: total=100, TI=0, CIF=100
+  26_crab: total=100, TI=0, CIF=100
+  47_maple_tree: total=100, TI=0, CIF=100
+  95_whale: total=100, TI=0, CIF=100
+  76_skyscraper: total=100, TI=0, CIF=100
+  59_pine_tree: total=100, TI=0, CIF=100
+  85_tank: total=100, TI=0, CIF=100
+  46_man: total=100, TI=0, CIF=100
+  74_shrew: total=100, TI=0, CIF=100
+  60_plain: total=100, TI=0, CIF=100
+  64_possum: total=100, TI=0, CIF=100
+  36_hamster: total=100, TI=0, CIF=100
+  87_television: total=100, TI=0, CIF=100
+  30_dolphin: total=100, TI=0, CIF=100
+  99_worm: total=100, TI=0, CIF=100
+  80_squirrel: total=100, TI=0, CIF=100
+  28_cup: total=100, TI=0, CIF=100
+  98_woman: total=100, TI=0, CIF=100
+  94_wardrobe: total=100, TI=0, CIF=100
+  68_road: total=100, TI=0, CIF=100
+  44_lizard: total=100, TI=0, CIF=100
+  79_spider: total=100, TI=0, CIF=100
+  34_fox: total=100, TI=0, CIF=100
+  55_otter: total=100, TI=0, CIF=100
+  62_poppy: total=100, TI=0, CIF=100
+  96_willow_tree: total=100, TI=0, CIF=100
+  38_kangaroo: total=100, TI=0, CIF=100
+  5_bed: total=100, TI=0, CIF=100
+  48_motorcycle: total=100, TI=0, CIF=100
+  88_tiger: total=100, TI=0, CIF=100

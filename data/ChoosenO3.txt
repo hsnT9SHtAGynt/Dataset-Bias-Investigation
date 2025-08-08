@@ -1,0 +1,28 @@
+new_label_id,new_label,tiny_synset_id,tiny_synset_name,cifar_fine_id,cifar_fine_name
+0,goldfish,n01443537,"goldfish, Carassius auratus",1,aquarium_fish
+1,brown bear,n02132136,"brown bear, bruin, Ursus arctos",3,bear
+2,bee,n02206856,"bee",6,bee
+3,lady beetle,n02165456,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",7,beetle
+4,pop bottle,n03983396,"pop bottle, soda bottle",9,bottle
+5,suspension bridge,n04366367,"suspension bridge",12,bridge
+6,school bus,n04146614,"school bus",13,bus
+7,monarch butterfly,n02279972,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",14,butterfly
+8,Arabian camel,n02437312,"Arabian camel, dromedary, Camelus dromedarius",15,camel
+9,ox,n02403003,"ox",19,cattle
+10,rocking chair,n04099969,"rocking chair, rocker",20,chair
+11,chimpanzee,n02481823,"chimpanzee, chimp, Pan troglodytes",21,chimpanzee
+12,cockroach,n02233338,"cockroach, roach",24,cockroach
+13,African elephant,n02504458,"African elephant, Loxodonta africana",31,elephant
+14,computer keyboard,n03085013,"computer keyboard, keypad",39,keyboard
+15,lawn mower,n03649909,"lawn mower, mower",41,lawn_mower
+16,lion,n02129165,"lion, king of beasts, Panthera leo",43,lion
+17,American lobster,n01983481,"American lobster, Northern lobster, Maine lobster, Homarus americanus",45,lobster
+18,mushroom,n07734744,"mushroom",51,mushroom
+19,orange,n07747607,"orange",53,orange
+20,plate,n07579787,"plate",61,plate
+21,snail,n01944390,"snail",77,snail
+22,dining table,n03201208,"dining table, board",84,table
+23,pay-phone,n03902125,"pay-phone, pay-station",86,telephone
+24,tractor,n04465501,"tractor",89,tractor
+25,bullet train,n02917067,"bullet train, bullet",90,train
+26,bell pepper,n07720875,"bell pepper",83,sweet_pepper

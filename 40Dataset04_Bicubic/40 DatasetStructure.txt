@@ -1,0 +1,88 @@
+1. Directory layout
+
+40Dataset04_Bicubic/
+├── train/  
+│   ├── 0_goldfish/  
+│   ├── 1_brown bear/  
+│   └── … (one folder per chosen class)  
+├── validation/  
+│   ├── 0_goldfish/  
+│   ├── 1_brown bear/  
+│   └── …  
+├── test/  
+│   ├── 0_goldfish/  
+│   ├── 1_brown bear/  
+│   └── …  
+├── NonSemanticTest/  
+│   ├── n01443537_goldfish/  
+│   ├── 1_aquarium_fish/  
+│   └── … (one folder per **excluded** synset / CIFAR class)  
+├── metadata.csv  
+├── Newmetadata.csv  
+└── 40 Num of origin for each class.txt
+2. Image pipeline
+TinyImageNet (64×64) and CIFAR-100 (32×32) are each
+resized to 256×256 with bicubic interpolation.
+
+No random crops—every image is exactly 256×256.
+
+Random seed = 42 ensures your train/validation split is reproducible.
+
+3. Splits
+Train / Validation / Test
+
+Built only from the classes listed in ChoosenO3.txt (27 classes).
+
+Train/Validation: 90 %/10 % split of (TinyImageNet train + CIFAR-100 train) per class.
+
+Test: all TinyImageNet validation + all CIFAR-100 test for those same classes.
+
+NonSemanticTest
+
+Contains every TinyImageNet validation and CIFAR-100 test image whose class was not in your mapping file（the mapping file contains semantically overlapping labels from Tiny imagenet and CIFAR-100）.
+
+Organized into per-class subfolders—mirroring the “test” structure—so you can still refer to class IDs if needed.
+
+4. Metadata files
+metadata.csv
+
+One row per image, with columns:
+image_id, filepath, new_label_id, new_label, tiny_synset_id, tiny_synset_name, cifar_fine_id, cifar_fine_name, dataset_id, split
+
+Contains only the original three splits (train/validation/test).
+
+Newmetadata.csv
+
+The superset of metadata.csv, plus all rows for the NonSemanticTest split
+(with split = "Non-Semantic Test" and blank new_label_id/new_label for those images).
+
+5. Statistics report
+The file 40 Num of origin for each class.txt has a section for each split:
+
+objectivec
+Copy
+Edit
+=== Split Statistics ===
+Split: test
+  goldfish (id=0): total=150, TI=50, CIF=100
+  brown bear (id=1): total=150, TI=50, CIF=100
+  …etc…
+Split: train
+  goldfish (id=0): total=1350, TI=1200, CIF=150
+  …etc…
+Split: validation
+  goldfish (id=0): total=150, TI=135, CIF=15
+  …etc…
+Split: Non-Semantic Test
+  n01443537_goldfish: total=50, TI=50, CIF=0
+  1_aquarium_fish: total=100, TI=0, CIF=100
+  …etc…
+Each line shows:
+
+total images for that class in the split
+
+TI = count from TinyImageNet
+
+CIF = count from CIFAR-100
+
+That’s the full picture: a uniform 256×256 dataset with both your semantic classes and a held-out “non-semantic” test, complete with metadata and per-class origin counts.

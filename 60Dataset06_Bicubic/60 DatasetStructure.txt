@@ -1,0 +1,98 @@
+Dataset06 (Bicubic, 256×256): Unified Tiny-ImageNet + CIFAR-100
+1) Directory layout
+60Dataset06_Bicubic/
+├── train/
+│   ├── 0_goldfish/
+│   ├── 1_brown bear/
+│   └── … (one folder per class in 05dataset_new_label_list.csv)
+├── validation/
+│   ├── 0_goldfish/
+│   ├── 1_brown bear/
+│   └── …
+├── test/
+│   ├── 0_goldfish/
+│   ├── 1_brown bear/
+│   └── …
+├── metadata.csv
+└── 60 Num of origin for each class.txt
+Notes:
+
+There is no NonSemanticTest/ in Dataset06. Tiny-ImageNet and CIFAR-100 are fully merged into the unified label space defined by 05dataset_new_label_list.csv.
+
+Class directories are named <new_label_id>_<new_label>.
+
+2) Image pipeline
+Tiny-ImageNet (original 64×64): downsample to 32×32 (bicubic) → upsample to 256×256 (bicubic).
+Rationale: matches CIFAR’s 32×32 footprint before standardizing resolution.
+
+CIFAR-100 (original 32×32): upsample to 256×256 (bicubic).
+
+No random crops — every saved image is exactly 256×256.
+
+File naming:
+
+From Tiny-ImageNet: tiny_<original_stem>.jpg
+
+From CIFAR train: cifar_tr_<index:05d>.jpg
+
+From CIFAR test: cifar_te_<index:05d>.jpg
+
+Random seed = 42 for a reproducible train/validation split.
+
+3) Splits
+All splits are built only from the classes listed in 05dataset_new_label_list.csv (the unified label list).
+Some classes may come from only one source (e.g., Tiny only or CIFAR only) depending on that CSV; there is no separate “non-semantic” bucket.
+
+Train / Validation:
+For each unified class, take Tiny-ImageNet train + CIFAR-100 train, shuffle deterministically, then split 90% / 10% into train and validation.
+
+Test:
+For each unified class, combine all Tiny-ImageNet validation images with all CIFAR-100 test images.
+
+4) Metadata file
+metadata.csv
+One row per saved image, with columns in this exact order:
+
+
+image_id, filepath, new_label_id, new_label,
+tiny_synset_id, tiny_synset_name,
+cifar_fine_id, cifar_fine_name,
+dataset_id, split
+image_id = filename stem (e.g., tiny_XXXX, cifar_tr_00042, cifar_te_00123)
+
+filepath = relative path under 60Dataset06_Bicubic/
+
+new_label_id, new_label = the unified class ID/name from the CSV
+
+tiny_synset_* / cifar_fine_* = original IDs/names from each dataset (may be empty for the dataset that doesn’t contribute images for that class)
+
+dataset_id ∈ {TinyImageNet, CIFAR-100}
+
+split ∈ {train, validation, test}
+
+Dataset06 does not produce a Newmetadata.csv; metadata.csv covers the three splits (train/validation/test).
+
+5) Statistics report
+60 Num of origin for each class.txt summarizes per-class counts by split and source:
+
+
+=== Split Statistics ===
+Split: test
+  goldfish (id=0): total=150, TI=50, CIF=100
+  brown bear (id=1): total=150, TI=50, CIF=100
+  …etc…
+Split: train
+  goldfish (id=0): total=1350, TI=1200, CIF=150
+  …etc…
+Split: validation
+  goldfish (id=0): total=150, TI=135, CIF=15
+  …etc…
+Each line shows:
+
+total images for that class in the split
+
+TI = count sourced from Tiny-ImageNet
+
+CIF = count sourced from CIFAR-100
+
+That’s the full picture for Dataset06: a unified, bicubic-resized 256×256 dataset with consistent splits across the merged Tiny-ImageNet and CIFAR-100 classes, clean metadata, and per-class origin counts — with no Non-Semantic Test split.
