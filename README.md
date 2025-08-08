@@ -63,7 +63,7 @@ Edit
 
 Where:
 
-- **sort_id** (`32`) — for sorting in PyCharm; also implicitly indicates dataset
+- **sort_id** (`32`) — for sorting in PyCharm; also implicitly indicates dataset(3) and task type (2)
 - **model_id** (`18`) — model type (`ResNet-18`, `50` for ResNet-50, `VITB32` for ViT-B/32)
 - **dataset_id** (`03`) — dataset variant
 - **task_name** (`Name Label`) — the experimental task
