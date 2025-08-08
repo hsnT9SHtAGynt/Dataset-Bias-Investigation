@@ -54,10 +54,6 @@ Example:
 
 32 1803 Name Label.py
 
-yaml
-Copy
-Edit
-
 Where:
 
 - **sort_id** (`32`) — for sorting in PyCharm; also implicitly indicates dataset(3) and task type (2)
