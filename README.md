@@ -2,7 +2,8 @@
 
 Investigating dataset bias via **Name the Dataset** (Torralba & Efros, *CVPR 2011*) and **Name the Label**,  
 decomposing it into **semantic** (generalizable and transferable) and **non-semantic** components.  
-Proposes two DANN variants, improving semantic accuracy by ~2% (**ResNet-18**) and ~0.5% (**ViT-B/32**);  
+Proposes two DANN variants, improving semantic accuracy by ~2% (**ResNet-18**) and ~0.5% (**ViT-B/32**); 
+(Note: Reported values are from individual runs—due to stochastic training variability, results of accuracy can fluctuate by about ±1%.)
 fortunately, in this setting, the non-semantic component dominates.
 
 ---
