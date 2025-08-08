@@ -1,10 +1,8 @@
 # Dataset-Bias-Investigation
 
-Investigating dataset bias via **Name the Dataset** (Torralba & Efros, *CVPR 2011*) and **Name the Label**,  
-decomposing it into **semantic** (generalizable and transferable) and **non-semantic** components.  
-Proposes two DANN variants, improving semantic accuracy by ~2% (**ResNet-18**) and ~0.5% (**ViT-B/32**); 
-(Note: Reported values are from individual runs—due to stochastic training variability, results of accuracy can fluctuate by about ±1%.)
-fortunately, in this setting, the non-semantic component dominates.
+Investigating dataset bias via **Name the Dataset** (Torralba & Efros, *CVPR 2011*) and **Name the Label**, decomposing it into **semantic** (generalizable and transferable) and **non-semantic** components. Proposes two DANN variants, improving semantic accuracy by ~2% (**ResNet-18**) and ~0.5% (**ViT-B/32**).
+
+> **Note:** Reported values are from individual runs — due to stochastic training variability, results of accuracy can fluctuate by about ±1%. Fortunately, in this setting, the non-semantic component dominates.
 
 ---
 
@@ -13,10 +11,9 @@ fortunately, in this setting, the non-semantic component dominates.
 This repository contains the code accompanying the MSc dissertation:  
 **"Name the Dataset or Name the Label: Dataset Bias Investigation"**.
 
-It includes **six experiments**, each stored in a separate folder.  
-The experiments involve **four dataset variants** (**Dataset 03 – Dataset 06**),  
-all created by merging **TinyImageNet** and **CIFAR-100** with different preprocessing pipelines.  
-Full construction details are available in **Appendix A** of the dissertation.
+It includes **six experiments**, each stored in a separate folder.
+
+The experiments involve **four dataset variants** (**Dataset 03 – Dataset 06**), all created by merging **TinyImageNet** and **CIFAR-100** with different preprocessing pipelines. Full construction details are available in **Appendix A** of the dissertation.
 
 ---
 
@@ -51,20 +48,18 @@ All `.py` scripts follow the format:
 <sort_id> <model_id><dataset_id> <task_name>.py
 
 
-Example:
-
+**Example:**
 32 1803 Name Label.py
+
 
 Where:
 
-- **sort_id** (`32`) — for sorting in PyCharm; also implicitly indicates dataset(3) and task type (2)
+- **sort_id** (`32`) — for sorting in PyCharm; also implicitly indicates dataset (3) and task type (2)
 - **model_id** (`18`) — model type (`ResNet-18`, `50` for ResNet-50, `VITB32` for ViT-B/32)
 - **dataset_id** (`03`) — dataset variant
 - **task_name** (`Name Label`) — the experimental task
 
 ---
-
-
 
 ## License
 
