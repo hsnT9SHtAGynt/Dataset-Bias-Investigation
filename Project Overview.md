@@ -7,5 +7,8 @@ The study decomposes dataset bias into **semantic** (generalizable and transfera
 Two Domain-Adversarial Neural Network (**DANN**) variants are proposed — **one-hot minimax** and **uniform double minimax** — which incorporate a *Name the Dataset* loss into the total loss function to mitigate bias.  
 
 Experiments on a combined **TinyImageNet + CIFAR-100** dataset, training **ResNet-18** for 273-class semantic classification, achieve ~2% improvement in classification accuracy; training **ViT-B/32** under the same setting yields a smaller gain of ~0.5%.  
+Note: Reported values are
+from individual runs—due to stochastic training variability, results of both loss and accuracy can
+fluctuate by about ±1%.
 
 While the approach suppresses both semantic and non-semantic components (despite only non-semantic suppression being desirable), **fortunately, in this setting, the non-semantic component is dominant**.
