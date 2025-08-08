@@ -49,9 +49,6 @@ All `.py` scripts follow the format:
 
 <sort_id> <model_id><dataset_id> <task_name>.py
 
-makefile
-Copy
-Edit
 
 Example:
 
@@ -69,17 +66,6 @@ Where:
 - **task_name** (`Name Label`) — the experimental task
 
 ---
-
-## Folder Structure
-
-.
-├── Experiment_1/ # First experiment
-├── Experiment_2/
-├── Experiment_3/
-├── Experiment_4/
-├── Experiment_5/
-├── Experiment_6/
-└── README.md
 
 
 
