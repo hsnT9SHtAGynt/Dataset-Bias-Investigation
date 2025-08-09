@@ -119,7 +119,7 @@ Before running each script:
 
 ### 5) Reproducibility
 
-* Dataset builders fix a global RNG seed for deterministic train/val splits.
+* Dataset builders fix a global seed (defauly = 42) for deterministic train/val splits.
 * Due to stochastic training, final accuracy typically varies by about **±1%** per run; consider averaging multiple runs for stable numbers.
 
 ## License
