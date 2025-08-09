@@ -61,6 +61,67 @@ Where:
 
 ---
 
+## How to Use
+
+> **Default project root**
+> `D:\DeepLearning\Bias\User Files\ResNet18DatasetBias`
+
+### 1) Mapping file
+
+Ensure `data\ChoosenO3.txt` exists.
+This file defines the semantic overlap mapping between **TinyImageNet** synsets and **CIFAR-100** fine labels and is required to construct **Dataset03–Dataset06**.
+
+### 2) Prepare raw datasets
+
+Download and place the raw datasets under the project root:
+
+* **TinyImageNet**:
+  Unzip to `data\tiny-imagenet-200\` so that folders like
+  `data\tiny-imagenet-200\train\`, `data\tiny-imagenet-200\val\images\` exist.
+
+* **CIFAR-100**:
+  If your scripts set `download=False`, place CIFAR data under `data\` as expected by `torchvision.datasets.CIFAR100`.
+  (If you prefer auto-download, set `download=True` where `CIFAR100(...)` is called.)
+
+Double-check in each dataset-builder script that these constants match your paths:
+
+```python
+DEFAULT_TINY_ROOT = Path(r"D:\DeepLearning\Bias\User Files\ResNet18DatasetBias\data\tiny-imagenet-200")  # TinyImageNet root directory
+DEFAULT_CIFAR_ROOT = Path(r"D:\DeepLearning\Bias\User Files\ResNet18DatasetBias\data")                   # CIFAR-100 root directory
+DEFAULT_MAP_FILE = Path(r"D:\DeepLearning\Bias\User Files\ResNet18DatasetBias\data\ChoosenO3.txt")       # Mapping between datasets
+OUTPUT_ROOT = Path("Dataset03_Bicubic")      # Destination folder for the merged dataset
+```
+
+### 3) Build the datasets (03–06)
+
+Run the corresponding builder scripts to materialize images at **256×256** and write a `metadata.csv` per dataset directory.
+(Each dataset variant follows the preprocessing summarized above; 224×224 random crop is applied **at training time**, not when saving.)
+
+After each build, verify that:
+
+* `DatasetXX_*/train|validation|test/<id>_<label>/...` exists
+* `DatasetXX_*/metadata.csv` is present
+
+### 4) Run experiments
+
+Sort the `.py` files **by filename (ascending)** and execute them **top-to-bottom**.
+The naming convention is:
+
+```
+<sort_id> <model_id><dataset_id> <task_name>.py
+# e.g., 32 1803 Name Label.py
+```
+
+Before running each script:
+
+* Confirm all dataset paths are correct for the chosen Dataset**03–06**.
+* (Optional) If your training scripts support logging, keep per-epoch metrics (e.g., `metrics.csv`) and final test results (e.g., `test_metrics.csv`) for later analysis.
+
+### 5) Reproducibility
+
+* Dataset builders fix a global RNG seed for deterministic train/val splits.
+* Due to stochastic training, final accuracy typically varies by about **±1%** per run; consider averaging multiple runs for stable numbers.
+
 ## License
 
 This project is released under the MIT License.
