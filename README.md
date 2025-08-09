@@ -94,7 +94,7 @@ OUTPUT_ROOT = Path("Dataset03_Bicubic")      # Destination folder for the merged
 
 ### 3) Build the datasets (03–06)
 
-Run the corresponding builder scripts to materialize images at **256×256** and write a `metadata.csv` per dataset directory.
+Run the corresponding builder scripts to interpolate images using 'Bicubic' to be **256×256** and write a `metadata.csv` per dataset directory.
 (Each dataset variant follows the preprocessing summarized above; 224×224 random crop is applied **at training time**, not when saving.)
 
 After each build, verify that:
