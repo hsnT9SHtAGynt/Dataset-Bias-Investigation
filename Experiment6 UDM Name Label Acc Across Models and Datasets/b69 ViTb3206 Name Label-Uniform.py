@@ -144,9 +144,9 @@ def main(argv=None):
     ap.add_argument("--epochs", type=int, default=60)
     ap.add_argument("--batch-size", type=int, default=128)
     ap.add_argument("--workers", type=int, default=8)
-    ap.add_argument("--lr-backbone", type=float, default=5e-5)
-    ap.add_argument("--lr-main", type=float, default=5e-5)
-    ap.add_argument("--lr-domain", type=float, default=5e-5)
+    ap.add_argument("--lr-backbone", type=float, default=4e-5)
+    ap.add_argument("--lr-main", type=float, default=4e-5)
+    ap.add_argument("--lr-domain", type=float, default=4e-5)
     ap.add_argument("--lambda-weight", type=float, default=0.4,
                     help="Coefficient for uniform domain loss")
     ap.add_argument("--warmup-epochs", type=int, default=5,

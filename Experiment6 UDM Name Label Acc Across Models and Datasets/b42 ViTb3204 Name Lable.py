@@ -210,7 +210,7 @@ def main():
     parser.add_argument("--output-dir", default=r"D:/DeepLearning/Bias/User Files/ResNet18DatasetBias/Model Record/ViT_B32_04",
                         help="Directory to save models, logs, and checkpoints")
     parser.add_argument("--batch-size", type=int, default=128)
-    parser.add_argument("--lr", type=float, default=5e-5, help="Peak learning rate after warm-up")
+    parser.add_argument("--lr", type=float, default=4e-5, help="Peak learning rate after warm-up")
     parser.add_argument("--epochs", type=int, default=60)
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--early-stop-patience", type=int, default=10)
